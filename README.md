@@ -1,4 +1,6 @@
 # APT-point-cloud
+Help to label coordinations with atomic types and colors in POS file, then generate a point-cloud graph with a HTML file. 
+BTW, you can choose what kind of ions to be displayed by in your browser.
 
 ## apt2csv
 
