@@ -64,7 +64,7 @@ elif plot_type == 'cloud':
                     zaxis = dict(zeroline=False, autorange='reversed'))
     )
     fig = dict(data=plotly_data, layout=layout)
-    plotly.offline.plot(fig, filename='output/{fn}.html'.format(fn=filename, show_link=False))
+    plotly.offline.plot(fig, filename='output/{fn}.html'.format(fn=filename), show_link=False)
 
 else:
     print("Plot type error!")
