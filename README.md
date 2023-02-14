@@ -3,6 +3,8 @@ Help to label coordinations with atomic types and colors in POS file, then gener
 
 BTW, you can choose which kind of ions to be displayed in your browser.
 
+![Demo graph](https://github.com/peikai/APT-point-cloud/blob/master/DemoGraph.png)
+
 ## apt2csv
 
 To label .pos or .epos file with ions and colors via [APT-tools](https://github.com/oscarbranson/apt-tools) functions.
