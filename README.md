@@ -1,9 +1,9 @@
 # APT-point-cloud
 Help to label coordinations with atomic types and colors in POS file, then generate a point-cloud graph with a HTML file. 
 
-BTW, you can choose which kind of ions to be displayed in your browser.
+It would be an interactive 3D graph, that you could choose the ions to show, and zoom inside for details.
 
-![Demo graph](https://github.com/peikai/APT-point-cloud/blob/master/DemoGraph.png)
+![Demo graph](DemoGraph.png)
 
 ## apt2csv
 
